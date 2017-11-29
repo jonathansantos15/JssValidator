@@ -1,11 +1,15 @@
+## JssValidator
 
-Dentre as validações disponíveis estão:
+#### Plugin de validação de dados com funções pré definidas retornando um JSON com o resultado da validação e a mensagem de erro
 
-Validação de Email
 
-Validação de CNPJ
+#### Dentre as validações disponíveis estão:
 
-Validação de CPF
+###### Validação de Email
+
+###### Validação de CNPJ
+
+###### Validação de CPF
 
 ## Documentação para instalação e uso em:
 
